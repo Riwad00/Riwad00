@@ -33,7 +33,7 @@ messy operational data into systems that actually make decisions.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **AI / ML**
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -56,18 +56,3 @@ messy operational data into systems that actually make decisions.
 - 🤖 Building fraud-detection infrastructure with **agentic AI** for a major card-payments network
 - 🔭 Focused on **ML pipelines, NLP, and applied AI/ML** — plus the product side of shipping them
 - 💬 Open to internship & new-grad roles in data / AI / product
-<!-- Add more once you send details: BSc + where, languages, interests -->
-
----
-
-## 📊 GitHub Stats
-
-![Riwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riwad00&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riwad00&layout=compact&hide_border=true&langs_count=6)
-
----
-
-## 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riwad00)
-<!-- LinkedIn badge added once you send your URL -->
