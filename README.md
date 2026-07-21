@@ -69,3 +69,5 @@ AI          LLM app development · evidence-grounded prompting
 ---
 
 *MIBA @ ESADE · building data + AI products · open to roles.*
+
+<!-- profile -->
